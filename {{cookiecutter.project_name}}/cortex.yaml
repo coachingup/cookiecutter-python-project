@@ -1,0 +1,5 @@
+openapi: 3.0.0
+info:
+  title: {{cookiecutter.project_name}}
+  description: {{cookiecutter.project_slug}} service.
+  x-cortex-tag: {{cookiecutter.project_slug}}
